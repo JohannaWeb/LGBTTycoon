@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lgbtycoon.dir/main.c.o CMakeFiles/lgbtycoon.dir/game.c.o CMakeFiles/lgbtycoon.dir/entity.c.o CMakeFiles/lgbtycoon.dir/structure.c.o CMakeFiles/lgbtycoon.dir/tick_decay_simd.asm.o CMakeFiles/lgbtycoon.dir/render.c.o -o lgbtycoon  /usr/lib/x86_64-linux-gnu/libSDL2.so 

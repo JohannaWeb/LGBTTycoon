@@ -1,0 +1,3 @@
+/home/johanna/CLionProjects/LGBTycoon/build/CMakeFiles/lgbtycoon.dir
+/home/johanna/CLionProjects/LGBTycoon/build/CMakeFiles/edit_cache.dir
+/home/johanna/CLionProjects/LGBTycoon/build/CMakeFiles/rebuild_cache.dir
